@@ -1,4 +1,4 @@
-## Unreleased
+## v1.1.0
 
 - The introduction and history documents now include the latest collaborative updates.
 - The collaboration document now includes the locally resolved conflict and improved guidance.
